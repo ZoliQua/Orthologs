@@ -152,3 +152,6 @@ eggnog/eggnog6/
 
 >>>>>>> 8f7b5e3... Initial commit for ortholog repository
 
+data/eggnog/eggnog5/
+data/eggnog/eggnog6/
+*.DS_Store
